@@ -1,0 +1,2 @@
+Docker:Docker solve the problem related to standalone means we need to download each and every Package invidual in each machine to run the isolated Application
+Docker solve this problem by containerised the app like its create complete package which we can deploy or shared anywhere or anybody and platform independent.
